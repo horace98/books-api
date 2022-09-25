@@ -1,0 +1,86 @@
+{
+    "books": {
+        "data": [
+            {
+                "id"    : 1,
+                "title" : "The Hobbit",
+                "desc"  : "A hobbit is a small human-like creature",
+                "price" : 10,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 2,
+                "title" : "The Lord of the Rings",
+                "desc"  : "A ring is a magical object",
+                "price" : 20,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 3,
+                "title" : "The Silmarillion",
+                "desc"  : "A Silmaril is a magical gem",
+                "price" : 30,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 4,
+                "title" : "The Children of Hurin",
+                "desc"  : "A Hurin is a human-like creature",
+                "price" : 40,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 5,
+                "title" : "The Unfinished Tales",
+                "desc"  : "A tale is a story",
+                "price" : 50,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 6,
+                "title" : "The History of Middle-earth",
+                "desc"  : "Middle-earth is a fictional world",
+                "price" : 60,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 7,
+                "title" : "The Book of Lost Tales",
+                "desc"  : "A tale is a story",
+                "price" : 70,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 8,
+                "title" : "The Book of Lost Tales Part 2",
+                "desc"  : "A tale is a story",
+                "price" : 80,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 9,
+                "title" : "The Lays of Beleriand",
+                "desc"  : "A lay is a poem",
+                "price" : 90,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            },
+            {
+                "id"    : 10,
+                "title" : "The Shaping of Middle-earth",
+                "desc"  : "Middle-earth is a fictional world",
+                "price" : 100,
+                "slug"  : "https://www.pannsattlann.com/wp-content/uploads/2019/11/happy-door-1-300x300.png",
+                "stock" : 100
+            }
+        ]
+    }
+}
